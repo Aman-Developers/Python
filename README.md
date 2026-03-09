@@ -1,2 +1,2 @@
 # Python
-Learn Python form scratch
+Practicing Python form scratch
